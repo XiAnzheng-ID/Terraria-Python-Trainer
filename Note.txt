@@ -1,0 +1,8 @@
+first time dealing a game with somekind of protection :/
+Protection Type : ASLR (Address space layout randomization)
+
+not much of a note i can give
+v26.04.2023
+Initial release
+
+how to use? just run the Main.py file just like my other trainer
